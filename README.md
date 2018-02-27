@@ -12,7 +12,7 @@ The user submits a survey containing 10 questions/answers. The answers are compa
 ## Getting Started
 
 You should be able to download the files via the github pages link below and run locally on your computer:
-[https://github.com/emswann/FriendFinder](https://github.com/emswann/FriendFinder).
+[https://github.com/emswann/FriendFinder](https://github.com/emswann/friendfinder).
 
 The application has also been published on Heroku:
 [https://friend-finder-ems.herokuapp.com/](https://friend-finder-ems.herokuapp.com/).
