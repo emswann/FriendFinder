@@ -1,5 +1,5 @@
 # FriendFinder
-Friend Finder - Node and Express Servers - Homework #11
+Friend Finder - Node and Express Servers
 
 This node.js application is a compatibility-based Friend Finder. It also uses express.js to handle routing.
 
